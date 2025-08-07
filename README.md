@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashikant1729&label=Profile%20views&color=0e75b6&style=flat" alt="shashikant1729" /> </p>
 
-- 🌱 I’m currently learning **MERN, Tailwind**
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **shashi1729kant@gmail.com**
 
 - 📄 Know more about me [https://www.linkedin.com/in/shashi-kant-405066205/](https://www.linkedin.com/in/shashi-kant-405066205/)
